@@ -4,6 +4,8 @@ https://github.com/tinacious/atom-tinacious-design-syntax
 
 https://ide.atom.io/
 
+![](https://raw.githubusercontent.com/skaraman/atom-tinacious-design-syntax-purple/master/images/purple.png)
+
 **Tinacious Design Syntax** is a dark syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange. Featuring purple theme for background and UI elements
 
 
