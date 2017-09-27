@@ -13,4 +13,4 @@ https://ide.atom.io/
 
 | Date         | Version | Change          |
 |:-------------|:--------|:----------------|
-| 27 Sept 2017 | 0.1.0   | Initial release |
+| 27 Sept 2017 | 0.2.1   | Initial release |
