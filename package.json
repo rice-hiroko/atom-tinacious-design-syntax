@@ -1,40 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-        "spec": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-        "type": "local"
-      },
-      "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/apm-install-dir-117827-626-o9by4s.i48cl3di"
-    ]
-  ],
-  "_from": "../d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-  "_id": "tinacious-design-syntax@1.0.2",
-  "_inCache": true,
-  "_location": "/tinacious-design-syntax",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-    "scope": null,
-    "escapedName": null,
-    "name": null,
-    "rawSpec": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-    "spec": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-    "type": "local"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "file:../d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-  "_shasum": "4beb0f128dbf2cc0b608416f07291b87f1c8e0ab",
-  "_shrinkwrap": null,
-  "_spec": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
-  "_where": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/apm-install-dir-117827-626-o9by4s.i48cl3di",
   "author": {
     "name": "Sem Karaman",
     "email": ""
@@ -70,5 +34,5 @@
     "url": "git+https://github.com/skaraman/atom-tinacious-design-syntax.git"
   },
   "theme": "syntax",
-  "version": "1.0.0"
+  "version": "0.0.0"
 }
