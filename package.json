@@ -36,19 +36,19 @@
   "_spec": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/d-117827-626-16mkxa1.8rrnyu8fr/package.tgz",
   "_where": "/private/var/folders/dc/3nt639096nv17gywpq81fwk00000gn/T/apm-install-dir-117827-626-o9by4s.i48cl3di",
   "author": {
-    "name": "Tina Holly",
-    "email": "info@tinaciousdesign.com"
+    "name": "Sem Karaman",
+    "email": ""
   },
   "bugs": {
-    "url": "https://github.com/tinacious/atom-tinacious-design-syntax/issues"
+    "url": "https://github.com/skaraman/atom-tinacious-design-syntax/issues"
   },
   "dependencies": {},
-  "description": "A dark syntax theme that uses bright pink, blue, purple, turquoise and orange.",
+  "description": "A dark syntax theme that uses bright pink, blue, purple, turquoise and orange. With purple UI elements.",
   "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/tinacious/atom-tinacious-design-syntax#readme",
+  "homepage": "https://github.com/skaraman/atom-tinacious-design-syntax#readme",
   "keywords": [
     "syntax",
     "theme",
@@ -61,14 +61,14 @@
     "gray"
   ],
   "license": "MIT",
-  "name": "tinacious-design-syntax",
+  "name": "tinacious-design-syntax-purple",
   "optionalDependencies": {},
-  "readme": "![Tinacious Design Syntax](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/tinacious-design-syntax.png)\n\n**Tinacious Design Syntax** is a dark syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.\n\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/tinacious-design-syntax-swatches.png)\n\nColours curated by Web and Mobile designer and developer Tina from [Tinacious Design](http://tinaciousdesign.com).\n\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/photo.jpg)\n\n### Complements the One Dark UI theme\nWhen used with the One Dark UI theme, this syntax theme offers a dark gray UI with a subtle purple tint.\n\nThe font used in the Atom editor is [Inconsolata](https://www.fontsquirrel.com/fonts/Inconsolata), and the tab bar, status bar, and tree view font is [Source Code Pro](https://www.fontsquirrel.com/fonts/source-code-pro).\n\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/00_OneDark-ui-theme.png)\n\n### Less CSS\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/01_less.png)\n\n### JavaScript (ES6)\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/02_javascript.png)\n\n### JavaScript (Angular)\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/08_angular.png)\n\n### JavaScript (TypeScript + React)\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/03_typescript-react.png)\n\n### JavaScript (TypeScript + React + JSX)\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/04_typescript-react-jsx.png)\n\n### Go lang\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/05_golang.png)\n\n### Ruby\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/06_ruby.png)\n\n### HTML\n![](https://raw.githubusercontent.com/tinacious/atom-tinacious-design-syntax/master/images/07_html.png)\n\n\n## Changelog\n\n| Date         | Version | Change          |\n|:-------------|:--------|:----------------|\n| 4 April 2016 | 0.1.0   | Initial release |\n",
+  "readme": "\n",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinacious/atom-tinacious-design-syntax.git"
+    "url": "git+https://github.com/skaraman/atom-tinacious-design-syntax.git"
   },
   "theme": "syntax",
-  "version": "1.0.2"
+  "version": "1.0.0"
 }
