@@ -1,4 +1,4 @@
-**Atom UI theme** based on Tinacious Design and Atom IDE UI
+**Atom Syntax theme** based on Tinacious Design and Atom IDE UI
 
 https://github.com/tinacious/atom-tinacious-design-syntax
 
