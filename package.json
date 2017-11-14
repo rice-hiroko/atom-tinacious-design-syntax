@@ -1,34 +1,34 @@
 {
-  "author": {
-    "name": "Sem Karaman",
-    "email": ""
-  },
-  "bugs": {
-    "url": "https://github.com/skaraman/atom-tinacious-design-syntax/issues"
-  },
-  "dependencies": {},
-  "description": "A dark syntax theme that uses bright pink, blue, purple, turquoise and orange. With purple UI elements to match Atom IDE UI.",
-  "devDependencies": {},
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "homepage": "https://github.com/skaraman/atom-tinacious-design-syntax#readme",
-  "keywords": [
-    "syntax",
-    "theme",
-    "dark",
-    "purple",
-    "atom-ide-ui"
-  ],
-  "license": "MIT",
-  "name": "tinacious-design-syntax-purple",
-  "optionalDependencies": {},
-  "readme": "\n",
-  "readmeFilename": "README.md",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/skaraman/atom-tinacious-design-syntax.git"
-  },
-  "theme": "syntax",
-  "version": "0.3.0"
+	"author": {
+		"name": "Sem Karaman",
+		"email": ""
+	},
+	"bugs": {
+		"url": "https://github.com/skaraman/atom-tinacious-design-syntax/issues"
+	},
+	"dependencies": {},
+	"description": "A dark syntax theme that uses bright pink, blue, purple, turquoise and orange. With purple UI elements to match Atom IDE UI.",
+	"devDependencies": {},
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"homepage": "https://github.com/skaraman/atom-tinacious-design-syntax#readme",
+	"keywords": [
+		"syntax",
+		"theme",
+		"dark",
+		"purple",
+		"atom-ide-ui"
+	],
+	"license": "MIT",
+	"name": "tinacious-design-syntax-purple",
+	"optionalDependencies": {},
+	"readme": "\n",
+	"readmeFilename": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/skaraman/atom-tinacious-design-syntax.git"
+	},
+	"theme": "syntax",
+	"version": "0.2.3"
 }
