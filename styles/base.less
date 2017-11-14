@@ -336,3 +336,18 @@ atom-text-editor .cursor-line {
 	background-color: rgba(255,255,255, 0.1);
 	box-sizing: content-box;
 }
+
+atom-text-editor {
+	.highlights .bracket-matcher:nth-child(1) .region:before,
+	.highlights .bracket-matcher:nth-child(1) .region:after {
+		content: "{";
+		position:absolute;
+		color: #ff00de
+	}
+	.highlights .bracket-matcher:nth-child(2) .region:before,
+	.highlights .bracket-matcher:nth-child(2) .region:after {
+		content: "}";
+		position:absolute;
+		color: #ff00de
+	}
+}
