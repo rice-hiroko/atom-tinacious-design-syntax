@@ -8,11 +8,11 @@ https://ide.atom.io/
 
 **Tinacious Design Syntax** is a dark syntax theme that uses a bright palette of colors including pink, blue, turquoise, green, purple, and orange. Featuring purple theme for background and UI elements
 
-** Blue Cursor from https://atom.io/packages/glowing-cursor - 
+** Blue Cursor from https://atom.io/packages/glowing-cursor -
 
 ## Changelog
 
 | Date         | Version | Change          |
 |:-------------|:--------|:----------------|
-| 14 Nov  2017 | 0.3.0   | minor changes   |
+| 14 Nov  2017 | 0.4.3   | color changes & additional improvements |
 | 27 Sept 2017 | 0.2.3   | Initial release |
