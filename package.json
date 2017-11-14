@@ -7,7 +7,7 @@
     "url": "https://github.com/skaraman/atom-tinacious-design-syntax/issues"
   },
   "dependencies": {},
-  "description": "A dark syntax theme that uses bright pink, blue, purple, turquoise and orange. With purple UI elements.",
+  "description": "A dark syntax theme that uses bright pink, blue, purple, turquoise and orange. With purple UI elements to match Atom IDE UI.",
   "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -16,13 +16,9 @@
   "keywords": [
     "syntax",
     "theme",
-    "pink",
-    "blue",
     "dark",
-    "bright",
-    "orange",
-    "easter",
-    "gray"
+    "purple",
+    "atom-ide-ui"
   ],
   "license": "MIT",
   "name": "tinacious-design-syntax-purple",
