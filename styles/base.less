@@ -304,50 +304,53 @@ atom-text-editor[mini] .scroll-view {
 }
 
 // style UI elements inside atom-text-editor
-atom-text-editor .cursor {
-	 border-color: rgb(254, 38, 213);
-}
-
-.indent-guide:nth-child(2n){
-	opacity: 0.7;
-}
-// finder
-atom-text-editor .find-result .region {
-	border-color: rgb(216, 103, 255);
-}
-// double click
-atom-text-editor .highlights .highlight-selected .region {
-	border-color: rgb(0, 201, 255);
-}
-
-atom-text-editor .syntax--variable.syntax--language.syntax--this.syntax--js {
-	color: #00BFFF;
-}
-
-atom-text-editor .syntax--variable.syntax--other.syntax--constant.syntax--js {
-	color: rgb(255, 142, 0);
-}
-atom-text-editor .syntax--keyword.syntax--js, .syntax--storage.syntax--type.syntax--js {
-	color: rgb(181, 0, 255);
-}
-
-atom-text-editor .cursor-line {
-	box-shadow: inset 0 0 1px rgb(181, 0, 255);
-	background-color: rgba(255,255,255, 0.1);
-	box-sizing: content-box;
-}
-
 atom-text-editor {
+	.cursor {
+		 border-color: rgb(254, 38, 213);
+	}
+
+	.indent-guide:nth-child(2n){
+		opacity: 0.7;
+	}
+	// finder
+	.find-result .region {
+		border-color: rgb(216, 103, 255);
+	}
+	// double click
+	.highlights .highlight-selected .region {
+		border-color: rgb(0, 201, 255);
+	}
+
+	.syntax--variable.syntax--language.syntax--this.syntax--js {
+		color: #00BFFF;
+	}
+
+	.syntax--variable.syntax--other.syntax--constant.syntax--js {
+		color: rgb(255, 142, 0);
+	}
+	.syntax--keyword.syntax--js, .syntax--storage.syntax--type.syntax--js {
+		color: rgb(181, 0, 255);
+	}
+
+	.cursor-line {
+		box-shadow: inset 0 0 1px rgb(181, 0, 255);
+		background-color: rgba(255,255,255, 0.1);
+		box-sizing: content-box;
+	}
+	
+	.bracket-matcher .region {
+		text-shadow: 0 0 5px #fb00ff;
+	}
 	.highlights .bracket-matcher:nth-child(1) .region:before,
 	.highlights .bracket-matcher:nth-child(1) .region:after {
-		content: "{";
+		content: "|";
 		position:absolute;
-		color: #ff00de
+		color: rgba(255,255,255,0);
 	}
 	.highlights .bracket-matcher:nth-child(2) .region:before,
 	.highlights .bracket-matcher:nth-child(2) .region:after {
-		content: "}";
+		content: "|";
 		position:absolute;
-		color: #ff00de
+		color: rgba(255,255,255,0);
 	}
 }
