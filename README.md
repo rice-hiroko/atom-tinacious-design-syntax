@@ -14,5 +14,5 @@ https://ide.atom.io/
 
 | Date         | Version | Change          |
 |:-------------|:--------|:----------------|
-| 14 Nov  2017 | 0.4.5   | color changes & additional improvements |
+| 14 Nov  2017 | 0.4.6   | color changes & additional improvements |
 | 27 Sept 2017 | 0.2.3   | Initial release |
