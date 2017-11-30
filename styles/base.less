@@ -354,3 +354,21 @@ atom-text-editor {
 		color: rgba(255,255,255,0);
 	}
 }
+
+atom-text-editor .diagnostics-gutter-ui-highlight-error > .region {
+	animation-name: backgroundGlow;
+	animation-duration: 0.5s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+
+@keyframes backgroundGlow {
+	from {
+		box-shadow: none;
+		border: 1px solid rgb(66, 25, 76);
+	}
+	to {
+		box-shadow: inset 0px 0px 10px rgb(255, 0, 0);
+		border: 1px solid red;
+	}
+}
