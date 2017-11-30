@@ -10,6 +10,6 @@
 
 | Date         | Version | Change          |
 |:-------------|:--------|:----------------|
-| 30 Nov  2017 | 0.4.7   | bracket matching and error effects |
+| 30 Nov  2017 | 0.5.1   | bracket matching and error effects |
 | 14 Nov  2017 | 0.4.6   | color changes & additional improvements |
 | 27 Sept 2017 | 0.2.3   | Initial release |
